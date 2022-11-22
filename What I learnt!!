@@ -1,0 +1,12 @@
+1. So I learnt about basic structuring of HTML, Tags like <h1>,<p>and many more.
+2. Learnt about creating a tables in html inserting image and linking multiple html pages through anchor tag.
+3. Created a contact me form learnt the structure of forms in html which goes like :
+                               <form>
+                               <label>Name :</label>
+                               <input type ="text">
+                               <input type ="Submit">
+                               </form>
+
+4. Basic styling the html page like changing bg color and setting height using styles.css
+
+  
